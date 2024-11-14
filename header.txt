@@ -6,5 +6,5 @@
 // @import       1731562455N
 // 2024/11/14
 // @license      MIT
-// @homepageURL  https://github.com/sealdice/sealdice-js-template
+// @homepageURL  https://github.com/Sheyiyuan/HanpaishRaisingSystemForSealdice
 // ==/UserScript==
