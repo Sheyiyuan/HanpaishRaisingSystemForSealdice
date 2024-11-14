@@ -1,0 +1,10 @@
+// ==UserScript==
+// @name         HanpaishRaisingSystem
+// @author       Sheyiyuan
+// @version      1.0.0
+// @description  一款简单配置的骰子养成系统插件
+// @import       1731562455N
+// 2024/11/14
+// @license      MIT
+// @homepageURL  https://github.com/sealdice/sealdice-js-template
+// ==/UserScript==
