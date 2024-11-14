@@ -71,7 +71,7 @@ export function handleCheckIn(ctx: seal.MsgContext, ext: seal.ExtInfo) {
   const BaseReward = seal.ext.getIntConfig(ext, '打卡初始货币值');
   const BonusCommonDifference = seal.ext.getIntConfig(ext, '打卡次序递减货币值');
   const LowestBonus = seal.ext.getIntConfig(ext, '打卡最低货币值');
-  let TotalReward = BaseReward + checkInOrder * BonusCommonDifference
+  let TotalReward = BaseReward - (checkInOrder - 1) * BonusCommonDifference
   if (TotalReward < LowestBonus) {
     TotalReward = LowestBonus
   }
