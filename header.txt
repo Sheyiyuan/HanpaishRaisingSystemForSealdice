@@ -3,8 +3,7 @@
 // @author       Sheyiyuan
 // @version      1.0.2
 // @description  一款简单配置的骰子养成系统插件
-// @import       1731562455
-// 2024/11/14
+// @timestamp    1731562455
 // @license      MIT
 // @homepageURL  https://github.com/Sheyiyuan/HanpaishRaisingSystemForSealdice
 // @updateURL    https://github.com/Sheyiyuan/HanpaishRaisingSystemForSealdice/master/dist/HanpaishRaisingSystem.js
