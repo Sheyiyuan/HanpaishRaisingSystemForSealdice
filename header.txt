@@ -6,5 +6,5 @@
 // @timestamp    1732190433
 // @license      MIT
 // @homepageURL  https://github.com/Sheyiyuan/HanpaishRaisingSystemForSealdice
-// @updateURL    https://github.com/Sheyiyuan/HanpaishRaisingSystemForSealdice/master/dist/HanpaishRaisingSystem.js
+// @updateURL    https://raw.githubusercontent.com/Sheyiyuan/HanpaishRaisingSystemForSealdice/master/dist/HanpaishRaisingSystem.js
 // ==/UserScript==
