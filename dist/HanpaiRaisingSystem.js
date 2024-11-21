@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         HanpaishRaisingSystem
 // @author       Sheyiyuan
-// @version      1.0.2
+// @version      1.0.1
 // @description  一款简单配置的骰子养成系统插件
-// @timestamp    1731562455
+// @timestamp    1732190433
 // @license      MIT
 // @homepageURL  https://github.com/Sheyiyuan/HanpaishRaisingSystemForSealdice
 // @updateURL    https://github.com/Sheyiyuan/HanpaishRaisingSystemForSealdice/master/dist/HanpaishRaisingSystem.js
